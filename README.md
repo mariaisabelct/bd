@@ -1,1 +1,2 @@
-# "Boulder Dash" Game
+# "Boulder Dash" Game.
+(please unzip file)
